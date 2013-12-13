@@ -1,0 +1,17 @@
+{
+    "name": "castingwords/CastingWordsAPI",
+    "type": "library",
+    "description": "CastingWords API access from PHP",
+    "keywords": ["Transcription"],
+    "homepage": "https://castingwords.com/support/transcription-api.html",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Nathan McFarland",
+            "email": "nathan@castingwords.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.17"
+    }
+}
