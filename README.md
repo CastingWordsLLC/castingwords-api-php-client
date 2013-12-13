@@ -27,6 +27,7 @@ Example:
     )
 
 Run Example:
+
     $   php ex/example.php $MY_API_KEY;
 
 See Also: 
