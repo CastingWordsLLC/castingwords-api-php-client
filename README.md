@@ -4,10 +4,6 @@ PHP Client
 -------------
 
 
-Install:
-
-    $ 
-
 Example:
 
      $ php -a
