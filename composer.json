@@ -1,5 +1,5 @@
 {
-    "name": "castingwords/CastingWordsAPI",
+    "name": "castingwords/castingwords-api",
     "type": "library",
     "description": "CastingWords API access from PHP",
     "keywords": ["Transcription"],
